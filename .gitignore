@@ -1,0 +1,80 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Calling a method/Area of parallelogram/out/
+/Topics/Calling a method/Area of parallelogram/out/production/classes/
+/Topics/Comments/The countdown/out/
+/Topics/Comments/The countdown/out/production/classes/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/Healthy sleep/out/production/classes/
+/Topics/Conditional statement/Symmetrical number/out/
+/Topics/Conditional statement/Symmetrical number/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Errors in programs/Print the age/out/
+/Topics/Errors in programs/Print the age/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/First digit/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Introduction to Java/Theory/out/
+/Topics/Introduction to Java/Theory/out/production/classes/
+/Topics/Multidimensional array/Cinema/out/
+/Topics/Multidimensional array/Cinema/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Overview of the basic program/Cats are robots/out/
+/Topics/Overview of the basic program/Cats are robots/out/production/classes/
+/Topics/Overview of the basic program/Hello, Java/out/
+/Topics/Overview of the basic program/Hello, Java/out/production/classes/
+/Topics/Printing data/Digits from 0 to 9 backwards/out/
+/Topics/Printing data/Digits from 0 to 9 backwards/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/We need to learn Java/out/
+/Topics/Printing data/We need to learn Java/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Printing each word in a new line/out/
+/Topics/Scanning the input/Printing each word in a new line/out/production/classes/
+/Topics/String/Check prefix ignoring the case/out/
+/Topics/String/Check prefix ignoring the case/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/The for-loop/Fizz Buzz/out/
+/Topics/The for-loop/Fizz Buzz/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
+/Topics/The while and do-while loops/The largest element of a sequence/out/
+/Topics/The while and do-while loops/The largest element of a sequence/out/production/classes/
+/Topics/The while and do-while loops/The length of the sequence/out/
+/Topics/The while and do-while loops/The length of the sequence/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/Types and variables/Assignments/out/
+/Topics/Types and variables/Assignments/out/production/classes/
+/Topics/Types and variables/Fill the declaration/out/
+/Topics/Types and variables/Fill the declaration/out/production/classes/
+/.idea/

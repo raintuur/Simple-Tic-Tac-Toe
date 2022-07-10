@@ -1,0 +1,13 @@
+type: code
+custom_name: Hello!
+files:
+- name: src/Main.java
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4709#comment
+status: Solved
+feedback:
+  message: "<html>Passed. \nHello, Rain\nCongratulations! It is your first Java program\
+    \ that really works.</html>"
+  time: Wed, 29 Jun 2022 10:11:22 UTC
+record: -1
